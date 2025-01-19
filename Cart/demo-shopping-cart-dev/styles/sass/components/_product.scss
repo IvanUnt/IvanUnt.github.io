@@ -1,0 +1,14 @@
+.product {
+  padding: 50px 0;
+  &__info {
+    margin-bottom: 40px;
+  }
+  &__title {
+    display: inline-block;
+    font-size: 2rem;
+    margin-right: 7px;
+    &--gray {
+      color: #b3b3b7;
+    }
+  }
+}
