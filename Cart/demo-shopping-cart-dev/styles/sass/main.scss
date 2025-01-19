@@ -1,0 +1,10 @@
+// Общий шаблон
+@import "base/reset";
+@import "base/fonts";
+@import "base/base";
+
+// Компоненты интерфейса
+@import "components/product";
+@import "components/card";
+@import "components/cart";
+@import "components/popup";
